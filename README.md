@@ -24,6 +24,7 @@ It includes a **web crawler, indexer, query processor, and ranking system** with
 
 ## 📂 Project Structure  
 
+'''
 IndraSeek/
 │── crawler/
 │ └── crawler.py
@@ -42,4 +43,5 @@ IndraSeek/
 │ └── index.db
 │── README.md
 │── requirements.txt
+'''
 
